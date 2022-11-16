@@ -1,0 +1,15 @@
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/bin/Debug/net6.0/Strategy
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/bin/Debug/net6.0/Strategy.deps.json
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/bin/Debug/net6.0/Strategy.runtimeconfig.json
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/bin/Debug/net6.0/Strategy.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/bin/Debug/net6.0/Strategy.pdb
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/Strategy.csproj.AssemblyReference.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfoInputs.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/Strategy.AssemblyInfo.cs
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/Strategy.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/refint/Strategy.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/Strategy.pdb
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/Strategy.genruntimeconfig.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/Strategy/obj/Debug/net6.0/ref/Strategy.dll

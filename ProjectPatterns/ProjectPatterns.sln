@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BehavioralPatternsConceptua
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{6F1E6ACB-97AA-4A9D-AFB8-F170BCB2D07F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{FEC7519F-F180-4E24-87BE-C206D25CB0D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6F1E6ACB-97AA-4A9D-AFB8-F170BCB2D07F} = {062EE50C-34FF-43D2-A30F-A8F6A3BB1901}
+		{FEC7519F-F180-4E24-87BE-C206D25CB0D3} = {062EE50C-34FF-43D2-A30F-A8F6A3BB1901}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6F1E6ACB-97AA-4A9D-AFB8-F170BCB2D07F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6F1E6ACB-97AA-4A9D-AFB8-F170BCB2D07F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F1E6ACB-97AA-4A9D-AFB8-F170BCB2D07F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F1E6ACB-97AA-4A9D-AFB8-F170BCB2D07F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC7519F-F180-4E24-87BE-C206D25CB0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC7519F-F180-4E24-87BE-C206D25CB0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC7519F-F180-4E24-87BE-C206D25CB0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC7519F-F180-4E24-87BE-C206D25CB0D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
