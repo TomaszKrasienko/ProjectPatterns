@@ -1,0 +1,15 @@
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod.deps.json
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod.runtimeconfig.json
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/bin/Debug/net6.0/TemplateMethod.pdb
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.csproj.AssemblyReference.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.AssemblyInfoInputs.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.AssemblyInfo.cs
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/refint/TemplateMethod.dll
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.pdb
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/TemplateMethod.genruntimeconfig.cache
+/Users/mac/Documents/Projects/PrivateGitRepos/ProjectPatterns/ProjectPatterns/TemplateMethod/obj/Debug/net6.0/ref/TemplateMethod.dll
